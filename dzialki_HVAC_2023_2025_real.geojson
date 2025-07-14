@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5528,
+          53.4285
+        ]
+      },
+      "properties": {
+        "popup": "<b>Inwestycja:</b> Przykładowa inwestycja<br><b>Projektant:</b> Jan Kowalski<br><b>Adres:</b> Szczecin, ul. Przykładowa 1<br><b>Działka:</b> obręb 15, nr 62<br><a href='#'>ADD</a>",
+        "projektant": "Jan Kowalski",
+        "rok": 2023
+      }
+    }
+  ]
+}
